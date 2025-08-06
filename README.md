@@ -1,36 +1,31 @@
+# 👋 Hey, I'm Brayan Nicolas Suarez
+
 # 💫 About Me:
-### Hola, soy Brayan Nicolas Suarez
+Junior full‑stack developer focused on building robust back‑end services and modern front‑end experiences. I enjoy combining creativity and code to solve real‑world problems.
 
-### Acerca de mí
+💡 **Innovation** – Always experimenting with new tech and patterns.  
+🚀 **Commitment** – Quality and perseverance guide my work.  
+🌟 **Looking ahead** – Excited to join a team where I can make real impact.
 
-Soy un apasionado desarrollador de software con un enfoque en el desarrollo FullStack. Mi objetivo es combinar la creatividad con la tecnología para crear soluciones innovadoras. Aquí hay algunas cosas que me definen:
+### 🎯 2025 Goal
+Deploy **two production-ready microservices** with CI/CD, observability and Kubernetes.
 
-💡 **Innovación:** Siempre estoy buscando nuevas tecnologías y enfoques para resolver problemas. Me encanta explorar y aprender.
-🚀 **Compromiso:** Soy una persona comprometida y apasionada por lo que hago. Creo que la perseverancia es clave para el éxito.
-🌟 **Emoción por el Futuro:** Estoy emocionado por la oportunidad de trabajar en una gran empresa y contribuir a proyectos significativos.
+## 🔧 Tech Stack
+**Languages:** Java · Python · JavaScript/TypeScript  
+**Frameworks:** Spring Boot · FastAPI · Angular · Vue  
+**Databases:** MySQL · MongoDB  
+**DevOps:** Docker · Git · GitHub Actions (learning)
 
-### Habilidades Técnicas
-
-  * **Lenguajes de Programación:** Java, Python, JavaScript.
-  * **Desarrollo Web:** HTML, CSS, React.
-  * **Bases de Datos:** MySQL, MongoDB.
-  * **Metodologías Ágiles:** Familiarizado con Scrum y Kanban.
-  * **Control de Versiones:** Experiencia con Git y GitHub.
-  * **Docker:** Conocimientos básicos.
-
-### ¿Por qué trabajar conmigo?
-
- * **Pasión por la Tecnología:** Mi entusiasmo por la programación me impulsa a seguir aprendiendo y mejorando.
-
- * **Adaptabilidad:** Estoy listo para enfrentar nuevos desafíos y aprender rápidamente.
-
-* **Trabajo Bajo Presión:** Mi capacidad para mantener la calma y resolver problemas bajo presión me permite ofrecer resultados consistentes.
+## 🤝 Why work with me?
+- **Passion for technology** – I keep learning every week.  
+- **Adaptability** – Quickly picked up FastAPI to deliver a project with 95 % test coverage.  
+- **Calm under pressure** – I thrive on challenging deadlines.
    
-### Contacto
+### Contact
 
-¡Estoy abierto a colaboraciones y oportunidades emocionantes! Puedes encontrarme en LinkedIn o Twitter.
+I am open to exciting collaborations and opportunities! You can find me on LinkedIn or Twitter.
 
-¡Espero con ansias lo que el futuro tiene reservado! 🌈
+I look forward to what the future holds!
 
 
 ## 🌐 Socials:
